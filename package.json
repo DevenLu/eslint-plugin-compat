@@ -50,7 +50,7 @@
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-stage-0": "^6.22.0",
     "babel-register": "^6.23.0",
-    "cross-env": "^3.1.4",
+    "cross-env": "^3.2.2",
     "download-cli": "^1.0.1",
     "eslint": "^3.16.1",
     "eslint-config-airbnb-base": "^11.1.0",
